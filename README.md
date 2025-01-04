@@ -1,7 +1,8 @@
 ## Hi there, i'm Eder 👋
 
 - :mailbox: contact me:
-- [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/edersonviana/)](https://www.linkedin.com/in/edersonviana/)
+  
+   [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/edersonviana/)](https://www.linkedin.com/in/edersonviana/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:nicholasscabral@gmail.com)](mailto:edersonvangeli@gmail.com)
 
 ![edersonviana's github stats](https://github-readme-stats.vercel.app/api?username=edersonviana&show_icons=true&theme=tokyonight&count_private=true)
