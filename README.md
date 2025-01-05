@@ -1,4 +1,4 @@
-## Hi there, i'm Eder 👋
+## Hi there, I'm Eder 👋
 
 - :mailbox: contact me:
   
